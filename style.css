@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+.video {
+  height: 99vh;
+  width: 100%;
+}
+.section {
+  width: 100%;
+  height: 100vh;
+}
+.sec {
+  margin: 10px 0;
+}
+.main {
+  position: absolute;
+  top: 150px;
+  left: 460px;
+  background-color: rgba(1, 1, 3, 0.5);
+  width: 650px;
+  height: 50vh;
+  border-radius: 15px;
+  padding: 35px 45px 10px 65px;
+}
+.sub {
+  margin-top: 7px;
+}
+.icon {
+  margin: 10px 0;
+}
+.day {
+  margin-top: 35px;
+}
